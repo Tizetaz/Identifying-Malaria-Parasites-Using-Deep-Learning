@@ -17,7 +17,9 @@ Setting up processing environment for Deep Learning (e.g.Graphical Processing Un
 Using Tensorflow and Keras as a Deep Learning framework with a python implementation
 Training and optimizing (as needed) of Convolutional Neural Network model for malaria parasite detection in single cells using the Malaria Dataset
 Evaluating the performance of the model on a test set.
+
 **Target Audience:**
 Various stakeholders can be benefited from such projects either by directly involved or affected by the operations of organizations working to prevent and treat malaria. To list some, health care systems; local, national and international organizations; manufacturers of malaria drugs and vaccines; advocacy and educational groups as well as partnering agencies that fund malaria programs.
-Challenges
+
+**Challenges**
 The main challenges of Deep Learning are the fact that they need large amounts of training data, are expensive in terms of the computational resources they require as well as their time consuming nature to configure and execute the process. These issues will be anticipated to be the major challenges for this project.

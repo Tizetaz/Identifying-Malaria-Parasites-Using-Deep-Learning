@@ -1,3 +1,5 @@
+## **Identifying Malaria Parasites Using Deep Learning**
+
 **Problem Statement**
 
 Malaria is a life-threatening disease caused by parasites that are transmitted to people through the bites of infected Female Anopheles Mosquitoes. In 2019 an estimated 229 million cases of malaria occurred worldwide and 409,000 people died. Microscopic detection of malarial parasites is generally considered as a ‘gold standard’ in malaria diagnosis that requires an expert microscopist. Such diagnosis is sensitive,  laborious and sometimes unreliable especially  in case of lack of expertise. In response to this problem, this project tries to identify and classify malaria on blood smear slide images by using  deep learning methodologies with the aim of automating the process.

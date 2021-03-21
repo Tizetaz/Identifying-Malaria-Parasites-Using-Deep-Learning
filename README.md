@@ -10,6 +10,7 @@ The analysis is aimed to test:
 
 - Identify malaria infected cells from a given image dataset
 - Evaluate model performance
+
 **Method**
 To serve the purpose of differentiating infected (malaria) and uninfected cells from the microscopic blood smear images, Deep Learning techniques particularly Convolutional and Artificial Neural Network will be used. Other methodologies include:
 Data pre-processing and transformation 
